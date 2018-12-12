@@ -1,5 +1,35 @@
 # Tribute-Page
 This is a tribute page; my first code.
+<style>
+  h1 {
+  color: #003300;
+  text-font: Arial;
+  background: linear-gradient(90deg, #00ffff, #00ff00, orange);
+  font-size: 45px;
+  text-align: center;
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  text-align: center;
+ 
+}
+img {
+  position: relative;
+  left: 135px;
+  height: 400px
+}
+ul {
+  font-size: 20px;
+  color: green;
+}
+footer {
+  text-align: center;
+}
+</style>
+
 <!DOCTYPE HTML>
 <main id="main">
   <title id="title">This is the life of Danny Galan</title>
@@ -30,32 +60,3 @@ This is a tribute page; my first code.
 </body>
 </div>
 </html>
-<style>
-  h1 {
-  color: #003300;
-  text-font: Arial;
-  background: linear-gradient(90deg, #00ffff, #00ff00, orange);
-  font-size: 45px;
-  text-align: center;
-}
-h2 {
-  font-size: 20px;
-  text-align: center;
-}
-p {
-  text-align: center;
- 
-}
-img {
-  position: relative;
-  left: 135px;
-  height: 400px
-}
-ul {
-  font-size: 20px;
-  color: green;
-}
-footer {
-  text-align: center;
-}
-</style>
