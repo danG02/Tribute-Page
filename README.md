@@ -1,6 +1,6 @@
 # Tribute-Page
 This is a tribute page; my first code.
-  <style>
+  
   h1 {
   color: #003300;
   text-font: Arial;
@@ -28,7 +28,7 @@ ul {
 footer {
   text-align: center;
 }
-</style>
+
 <!DOCTYPE HTML>
 <main id="main">
   <title id="title">This is the life of Danny Galan</title>
